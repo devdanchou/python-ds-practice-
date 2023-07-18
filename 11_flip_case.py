@@ -22,3 +22,5 @@ def flip_case(phrase, to_swap):
             flippedPhrase += char
 
     return flippedPhrase
+
+# strs have swapcase method
