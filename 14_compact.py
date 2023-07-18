@@ -5,12 +5,6 @@ def compact(lst):
         [1, 2, 'All done']
     """
 
-    trutheys = []
-
-    for ele in lst:
-        if ele:
-            trutheys.append(ele)
-
-    return trutheys
+    return [num for num in lst if num]
 
 # could also use list comprehensions
