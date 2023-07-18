@@ -15,3 +15,5 @@ def last_element(lst):
     if (len(lst) == 0):
         return None
     return lst[-1]
+
+# empty list is falsy and one or more item is truthy

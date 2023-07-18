@@ -19,3 +19,5 @@ def single_letter_count(word, letter):
             count = count + 1
 
     return count
+
+# can also use count

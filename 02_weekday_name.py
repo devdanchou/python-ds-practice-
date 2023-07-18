@@ -28,3 +28,6 @@ def weekday_name(day_of_week):
         return 'Friday'
     else:
         return 'Saturday'
+
+
+# use list or dictionary

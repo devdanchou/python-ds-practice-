@@ -17,3 +17,5 @@ def multiple_letter_count(phrase):
     #    letter_to_count[char] = (letter_to_count[char] or 0) + 1
 
     return letter_to_count
+
+# use get
